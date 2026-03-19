@@ -1,0 +1,4 @@
+from 01 import split
+
+name="我是靜宜大學 行銷數位四A 徐梓恩"
+split(name)
